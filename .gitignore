@@ -1,0 +1,10 @@
+*__pycache__
+*.ply
+*.bin
+.vscode
+weights/
+runs/
+Experiments/*/*/*/
+test_commands.txt
+config_files/eval_config_*
+config_files/train_config_*
