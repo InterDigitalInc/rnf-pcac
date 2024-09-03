@@ -13,12 +13,12 @@ Implemented architectures:
 
 * RNF-PCAC: BP Mode
 
-<img src="imgs/bp_mode.png" alt="drawing" width="800"/>
-<!-- ![img](imgs/normalizing_flow.png) -->
+<img src="imgs/bp_mode.jpg" alt="drawing" width="800"/>
+
 
 * RNF-PCAC: NA Mode
 
-<img src="imgs/na_mode.png" alt="drawing" width="800"/>
+<img src="imgs/na_mode.jpg" alt="drawing" width="800"/>
 
 
 ## Requirements
